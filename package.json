@@ -10,7 +10,7 @@
   "author": "Robin Thrift <thrift.d.robin@googlemail.com> (http://webbrickworks.com/)",
   "main": "./index.js",
   "keywords": [
-    "gulpplugin"
+    "gulpfriendly"
   ],
   "dependencies": {
     "gulp-util": "~2.2.5",
